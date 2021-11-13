@@ -1,6 +1,6 @@
 import random  # importing necessary modules
 
-print('Eunique password generator')
+print('Unique password generator')
 
 length = 15 # length of the password(15)
 
